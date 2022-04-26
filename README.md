@@ -32,7 +32,7 @@ npm run dev or yarn dev
 
 ### 示范图片
 
-![image](https://github.com/zhaochengxian/cityTable/blob/16250a33d0dec558739b20ebf475d53008e33f93/examples/assets/demo-img.jpeg)
+![image](https://github.com/zhaochengxian/drag-front-end/blob/955fff8f55a3e12fe757a165b887e827a63252ef/1.png)
 
 ### Api code
 
