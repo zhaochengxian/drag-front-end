@@ -30,32 +30,10 @@ npm run dev or yarn dev
 
 ```
 
-### add params demo
+### 示范图片
 
-```
- {
-        status: 1,
-        pageName: '页面名称',
-        backgroundImage: 'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.jj20.com%2Fup%2Fallimg%2F1113%2F052420110515%2F200524110515-2-1200.jpg&refer=http%3A%2F%2Fimg.jj20.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653551031&t=ab35ef12fad3a0b01451ff93ac0fc773',
-        shareImage: 'https://img2.baidu.com/it/u=2147843660,3054818539&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=313',
-        paperwork: '分享文案',
-        remark：'备注',
-        children: [
-            {
-                id:'1',
-                modelType: '1',
-                price: '价格',
-                priceFont: '12',
-                priceColor: 'red',
-                url:'图片跳转地址',
-                image:'https://img2.baidu.com/it/u=2147843660,3054818539&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=312'
-                type:'活动类型'
-            }
-        ]
-    }
+![image](https://github.com/zhaochengxian/cityTable/blob/16250a33d0dec558739b20ebf475d53008e33f93/examples/assets/demo-img.jpeg)
 
-```
+### Api code
 
-### Drag and drop configuration to generate page front-end code
-
-[github]().
+[github](https://github.com/zhaochengxian/drag-node).
